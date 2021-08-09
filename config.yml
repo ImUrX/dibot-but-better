@@ -1,0 +1,9 @@
+#discord bot token
+token: ""
+
+prefixes:
+  # global prefix that interacts with all servers
+  global: "+"
+  # server-specific prefix
+  "127.0.0.1:9999": "!!"
+
